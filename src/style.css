@@ -1,0 +1,10 @@
+:root{
+  --bg:#f7f9fc;
+  --card:#ffffff;
+  --accent:#2b6cb0;
+}
+body{margin:0;font-family:Inter,Segoe UI,Helvetica,Arial,sans-serif;background:var(--bg);color:#0f172a}
+.app{max-width:900px;margin:40px auto;padding:20px}
+header h1{margin:0;color:var(--accent)}
+.card{background:var(--card);padding:16px;margin-top:16px;border-radius:8px;box-shadow:0 1px 3px rgba(2,6,23,0.06)}
+footer{margin-top:24px;font-size:14px;color:#475569}
